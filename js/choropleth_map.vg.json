@@ -15,7 +15,7 @@
           "url": "https://Heshanhaputanthri.github.io/assignment-heshan/data/covid_10_10_2020.csv"
         },
         "key": "Country",
-        "fields": ["Emission"]
+        "fields": ["GDP"]
       }
     }
   ],
@@ -23,14 +23,14 @@
   "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
-      "field": "Emission",
+      "field": "GDP",
       "title": "CO2 emissions",
       "type": "quantitative",
       "scale": {"type": "log", "range": ["#0000", "brown"]}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country Name"},
-      {"field": "Emission", "type": "quantitative"}
+      {"field": "GDP", "type": "quantitative"}
     ]
   }
 }
