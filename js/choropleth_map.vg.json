@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "CO2 emissions 2018 (metric tonnes per capita)",
+  "title": "GDP 2020 (GDP er Capita)",
   "width": 800,
   "height": 600,
   "data": {
@@ -12,10 +12,10 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://Heshanhaputanthri.github.io/assignment-heshan/data/covid_10_10_2020.csv"
+          "url": "https://Heshanhaputanthri.github.io/assignment-heshan/data/GDPperCAP.csv"
         },
         "key": "Country",
-        "fields": ["GDP"]
+        "fields": ["Emission"]
       }
     }
   ],
@@ -23,14 +23,14 @@
   "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
-      "field": "GDP",
+      "field": "Emission",
       "title": "CO2 emissions",
       "type": "quantitative",
-      "scale": {"type": "log", "range": ["#0000", "brown"]}
+      "scale": {"type": "log", "range": ["#0000", "purple"]}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country Name"},
-      {"field": "GDP", "type": "quantitative"}
+      {"field": "Emission", "type": "quantitative"}
     ]
   }
 }
