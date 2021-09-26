@@ -12,7 +12,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://Heshanhaputanthri.github.io/assignment-heshan/data/covid_10_10_2020.csv"
+          "url": "https://Heshanhaputanthri.github.io/assignment-heshan/data/forrestland.csv"
         },
         "key": "Country",
         "fields": ["Emission"]
