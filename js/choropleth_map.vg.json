@@ -24,7 +24,7 @@
   "encoding": {
     "color": {
       "field": "Emission",
-      "title": "CO2 emissions",
+      "title": "GDP",
       "type": "quantitative",
       "scale": {"type": "log", "range": ["#0000", "purple"]}
     },
