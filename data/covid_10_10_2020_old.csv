@@ -1,189 +1,256 @@
-Country,Confirmed,Deaths,Recovered,Active
-Afghanistan,39703,1473,33064,5166
-Albania,15231,416,9406,5409
-Algeria,52940,1795,37170,13975
-Andorra,2696,55,1814,827
-Angola,6246,218,2716,3312
-Antigua and Barbuda,111,3,97,11
-Argentina,883882,23581,709464,150837
-Armenia,55736,1016,45771,8949
-Australia,27263,898,24987,1378
-Austria,54423,852,42829,10742
-Azerbaijan,41752,608,39235,1909
-Bahamas,5023,106,2815,2102
-Bahrain,75287,273,70808,4206
-Bangladesh,377073,5500,291365,80208
-Barbados,206,7,183,16
-Belarus,82471,885,76543,5043
-Belgium,156931,10175,20202,126554
-Belize,2427,35,1487,905
-Benin,2411,41,1973,397
-Bhutan,306,0,287,19
-Bolivia,138463,8292,100786,29385
-Bosnia and Herzegovina,30345,927,23370,6048
-Botswana,3219,18,834,2367
-Brazil,5055888,149639,4502854,403395
-Brunei,146,3,143,0
-Bulgaria,24319,891,15818,7610
-Burkina Faso,2271,61,1542,668
-Burma,26064,598,7050,18416
-Burundi,517,1,472,44
-Cabo Verde,6913,74,5970,869
-Cambodia,283,0,277,6
-Cameroon,21203,423,20117,663
-Canada,182767,9661,153857,19250
-Central African Republic,4854,62,1924,2868
-Chad,1291,92,1103,96
-Chile,479595,13272,452054,14269
-China,90778,4739,85658,381
-Colombia,902747,27660,783131,91956
-Comoros,495,7,475,13
-Dem. Rep. Congo,5118,90,3887,1141
-Congo (Kinshasa),10841,276,10242,323
-Costa Rica,87439,1076,52669,33694
-Cote d'Ivoire,20128,120,19752,256
-Croatia,19932,317,16953,2662
-Cuba,5948,123,5440,385
-Cyprus,1986,25,1444,517
-Czechia,114005,948,54909,58148
-Denmark,32575,667,26462,5446
-Diamond Princess,712,13,659,40
-Djibouti,5423,61,5355,7
-Dominica,32,0,24,8
-Dominican Republic,118014,2167,93627,22220
-Ecuador,146828,12188,120511,14129
-Egypt,104387,6040,97643,704
-El Salvador,29951,887,24995,4069
-Equatorial Guinea,5063,83,4894,86
-Eritrea,414,0,372,42
-Estonia,3846,68,2946,832
-Eswatini,5660,113,5282,265
-Ethiopia,83429,1277,37683,44469
-Fiji,32,2,28,2
-Finland,11849,346,8500,3003
-France,732434,32601,103232,596601
-Gabon,8835,54,8189,592
-Gambia,3628,117,2540,971
-Georgia,11271,78,6119,5074
-Germany,323463,9620,274934,38909
-Ghana,47005,306,46398,301
-Greece,22078,436,1347,20295
-Grenada,24,0,24,0
-Guatemala,97544,3365,86046,8133
-Guinea,10996,69,10304,623
-Guinea-Bissau,2385,40,1728,617
-Guyana,3405,102,2304,999
-Haiti,8860,230,7104,1526
-Holy See,12,0,12,0
-Honduras,83146,2504,31931,48711
-Hungary,36596,933,9683,25980
-Iceland,3460,10,2466,984
-India,7053806,108334,6077976,867496
-Indonesia,328952,11765,251481,65706
-Iran,496253,28293,403950,64010
-Iraq,400124,9790,332330,58004
-Ireland,41714,1824,23364,16526
-Israel,289875,1941,225725,62209
-Italy,349494,36140,238525,74829
-Jamaica,7559,138,3142,4279
-Japan,88962,1626,80798,6539
-Jordan,23998,181,6045,17772
-Kazakhstan,108757,1746,103980,3031
-Kenya,41158,760,31876,8522
-"Korea, South",24606,432,22693,1481
-Kosovo,16130,645,14282,1203
-Kuwait,110568,655,102722,7191
-Kyrgyzstan,48924,1082,44227,3615
-Laos,23,0,22,1
-Latvia,2596,40,1322,1234
-Lebanon,52558,455,22719,29384
-Lesotho,1800,42,926,832
-Liberia,1363,82,1245,36
-Libya,41686,623,23791,17272
-Liechtenstein,142,1,117,24
-Lithuania,5963,103,2751,3109
-Luxembourg,9119,128,7900,1091
-Madagascar,16702,237,16012,453
-Malawi,5821,180,4644,997
-Malaysia,15096,155,10780,4161
-Maldives,10859,34,9683,1142
-Mali,3273,132,2525,616
-Malta,3681,41,2937,703
-Mauritania,7550,163,7266,121
-Mauritius,395,10,358,27
-Mexico,814328,83642,689377,41309
-Moldova,61762,1458,43982,16322
-Monaco,233,2,209,22
-Mongolia,315,0,310,5
-Montenegro,13641,198,9429,4014
-Morocco,149841,2572,124854,22415
-Mozambique,9844,70,7203,2571
-MS Zaandam,9,2,0,7
-Namibia,11891,128,9807,1956
-Nepal,105684,614,74252,30818
-Netherlands,173894,6624,4761,162509
-New Zealand,1871,25,1801,45
-Nicaragua,5264,153,4225,886
-Niger,1201,69,1123,9
-Nigeria,60103,1115,51711,7277
-North Macedonia,20555,785,16099,3671
-Norway,15466,275,11863,3328
-Oman,104129,1009,91731,11389
-Pakistan,318932,6570,303458,8904
-Panama,119666,2482,95552,21632
-Papua New Guinea,549,7,532,10
-Paraguay,48978,1065,31351,16562
-Peru,846088,33223,733000,79865
-Philippines,336926,6238,276094,54594
-Poland,121638,2972,78982,39684
-Portugal,85574,2067,52803,30704
-Qatar,127778,219,124767,2792
-Romania,152403,5358,116628,30417
-Russia,1278245,22331,1011911,244003
-Rwanda,4892,30,3566,1296
-Saint Kitts and Nevis,19,0,18,1
-Saint Lucia,29,0,27,2
-Saint Vincent and the Grenadines,64,0,64,0
-San Marino,741,42,682,17
-Sao Tome and Principe,922,15,890,17
-Saudi Arabia,338944,5018,324737,9189
-Senegal,15244,314,13198,1732
-Serbia,34685,762,0,33923
-Seychelles,148,0,144,4
-Sierra Leone,2300,72,1725,503
-Singapore,57866,27,57698,141
-Slovakia,18797,61,5553,13183
-Slovenia,8252,167,5024,3061
-Somalia,3847,99,3079,669
-South Africa,690896,17673,622153,51070
-South Sudan,2761,54,1290,1417
-Spain,861112,32929,150376,677807
-Sri Lanka,4628,13,3306,1309
-Sudan,13670,836,6764,6070
-Suriname,5035,107,4830,98
-Sweden,98451,5894,0,92557
-Switzerland,60368,2088,48400,9880
-Syria,4673,221,1271,3181
-Taiwan,527,7,488,32
-Tajikistan,10180,79,9006,1095
-Tanzania,509,21,183,305
-Thailand,3636,59,3451,126
-Timor-Leste,28,0,28,0
-Togo,1935,49,1444,442
-Trinidad and Tobago,5043,90,3221,1732
-Tunisia,31259,456,5032,25771
-Turkey,334031,8778,293145,32108
-Uganda,9701,93,6022,3586
-Ukraine,263105,5010,116861,141234
-United Arab Emirates,105133,443,95973,8717
-United Kingdom,593565,42850,2495,548220
-Uruguay,2268,50,1930,288
-United States of America,7717932,214370,3062983,4440581
-Uzbekistan,60776,502,57704,2570
-Venezuela,82453,691,73919,7843
-Vietnam,1107,35,1024,48
-West Bank and Gaza,43945,378,37240,6327
-Western Sahara,10,1,8,1
-Yemen,2051,595,1329,127
-Zambia,15415,337,14541,537
-Zimbabwe,8010,230,6492,1288
+﻿Country Name,Emission
+Afghanistan,0.245101422
+Albania,1.577162624
+Algeria,3.69915599
+Andorra,6.072370208
+Angola,1.202860579
+Antigua and Barbuda,5.896558655
+Arab World,4.712844702
+Argentina,4.619085482
+Armenia,1.755976031
+Aruba,8.426910901
+Australia,15.53922046
+Austria,7.033335706
+Azerbaijan,3.855347182
+Bahamas,4.725277895
+Bahrain,22.22898097
+Bangladesh,0.533298791
+Barbados,4.465128973
+Belarus,6.133707568
+Belgium,8.550513254
+Belize,1.542847448
+Benin,0.595647727
+Bermuda,9.486460947
+Bhutan,1.712274453
+Bolivia,1.958514344
+Bosnia and Herzegovina,6.451938373
+Botswana,2.935373787
+Brazil,2.242393446
+British Virgin Islands,7.245307443
+Brunei Darussalam,18.25638399
+Bulgaria,5.851501062
+Burkina Faso,0.183287285
+Burundi,0.047201096
+Cabo Verde,1.021783088
+Cambodia,0.629141866
+Cameroon,0.346522621
+Canada,15.09005647
+Caribbean small states,8.490805688
+Cayman Islands,8.732487334
+Central African Republic,0.065457798
+Central Europe and the Baltics,6.377623318
+Chad,0.069755686
+Chile,4.713171921
+China,7.175809897
+Colombia,2.030532105
+Comoros,0.253503052
+Dem. Rep. Congo,0.025644617
+Congo,0.65889694
+Costa Rica,1.637646665
+Cote d'Ivoire,0.406063977
+Croatia,4.189377314
+Cuba,2.495218264
+Curacao,33.76146157
+Cyprus,5.662572734
+Czech Republic,9.673898662
+Denmark,5.549144642
+Djibouti,0.6670057
+Dominica,2.519850786
+Dominican Republic,2.429209493
+Early-demographic dividend,2.345692627
+East Asia & Pacific,6.071788628
+East Asia & Pacific (excluding high income),5.562986278
+East Asia & Pacific (IDA & IBRD countries),5.618534242
+Ecuador,2.495570554
+Egypt,2.525862866
+El Salvador,1.1278829
+Equatorial Guinea,4.653235449
+Estonia,12.60802104
+Eswatini,1.036913457
+Ethiopia,0.143524928
+Euro area,6.54514044
+Europe & Central Asia,6.882181867
+Europe & Central Asia (excluding high income),7.583597179
+Europe & Central Asia (IDA & IBRD countries),7.400544027
+European Union,6.468462215
+Faroe Islands,13.09289436
+Fiji,2.345470364
+Finland,8.34721998
+Fragile and conflict affected situations,0.988604312
+France,5.34
+French Polynesia,2.80458891
+Gabon,2.649976866
+"Gambia, The",0.247408381
+Georgia,2.717167113
+Germany,8.840128794
+Ghana,0.585289432
+Gibraltar,18.8040134
+Greece,5.793848369
+Greenland,9.071886235
+Grenada,2.427794052
+Guatemala,1.059947788
+Guinea,0.255224608
+Guinea-Bissau,0.164583657
+Guyana,3.090037673
+Haiti,0.274687476
+Heavily indebted poor countries (HIPC),0.276852353
+High income,10.39292983
+Honduras,1.058473626
+Hong Kong,5.948891039
+Hungary,4.639973434
+IBRD only,4.41863084
+Iceland,6.154683862
+IDA & IBRD total,3.453641353
+IDA blend,0.887013216
+IDA only,0.379888948
+IDA total,0.551236124
+India,1.817783386
+Indonesia,2.153758127
+Iran,8.316701233
+Iraq,5.191404781
+Ireland,7.930340975
+Israel,7.625351861
+Italy,5.74
+Jamaica,2.830147084
+Japan,8.944372824
+Jordan,2.628700806
+Kazakhstan,13.89268146
+Kenya,0.36511748
+Kiribati,0.58659486
+North Korea,1.117585629
+South Korea,12.11106978
+Kosovo,5.031519664
+Kuwait,24.95251303
+Kyrgyz Republic,1.609873016
+Lao PDR,2.594704584
+Late-demographic dividend,6.491777139
+Latin America & Caribbean,2.922629082
+Latin America & Caribbean (excluding high income),2.778061233
+Latin America & the Caribbean (IDA & IBRD countries),2.901532656
+Latvia,3.574298418
+Least developed countries: UN classification,0.341969015
+Lebanon,3.694800615
+Lesotho,1.210551224
+Liberia,0.302199709
+Libya,7.788506729
+Liechtenstein,1.363269425
+Lithuania,4.519456418
+Low & middle income,3.4039735
+Low income,0.271829641
+Lower middle income,1.515452398
+Luxembourg,15.44261306
+Macao,3.37478216
+Madagascar,0.156876974
+Malawi,0.075448776
+Malaysia,8.091591623
+Maldives,3.03839853
+Mali,0.176967052
+Malta,2.947412574
+Marshall Islands,2.477058976
+Mauritania,0.657914406
+Mauritius,3.442148744
+Mexico,3.943827403
+"Micronesia, Fed. Sts.",1.297581999
+Middle East & North Africa,6.01649233
+Middle East & North Africa (excluding high income),3.984350242
+Middle East & North Africa (IDA & IBRD countries),4.023063965
+Middle income,3.749709678
+Moldova,1.825536995
+Monaco,0.34
+Mongolia,8.300172198
+Montenegro,3.240945327
+Morocco,1.744435849
+Mozambique,0.285402032
+Myanmar,0.476580079
+Namibia,1.793035405
+Nauru,3.653230133
+Nepal,0.333997918
+Netherlands,10.02797271
+New Caledonia,19.26650154
+New Zealand,7.325874031
+Nicaragua,0.887087256
+Niger,0.097016004
+Nigeria,0.647284835
+North America,15.45968067
+North Macedonia,3.388998171
+Norway,7.836962479
+OECD members,8.980757109
+Oman,14.16707578
+Other small states,7.041731198
+Pacific island small states,1.411030073
+Pakistan,0.987832348
+Palau,12.61985896
+Panama,2.654140941
+Papua New Guinea,0.911013497
+Paraguay,1.092871037
+Peru,1.856501313
+Philippines,1.179649658
+Poland,7.875581533
+Portugal,4.720545309
+Post-demographic dividend,9.938830143
+Pre-demographic dividend,0.580670839
+Puerto Rico,1.56
+Qatar,38.90147093
+Romania,3.515261924
+Russia,11.99943207
+Rwanda,0.095533926
+Samoa,1.262955252
+San Marino,0.365
+Sao Tome and Principe,0.595447455
+Saudi Arabia,17.36758781
+Senegal,0.727113125
+Serbia,6.406826438
+Seychelles,6.390728477
+Sierra Leone,0.149104947
+Singapore,6.694046297
+Slovak Republic,5.970322225
+Slovenia,6.117461533
+Small states,6.969563292
+Solomon Islands,0.272315022
+Somalia,0.045496236
+South Africa,8.480658464
+South Asia,1.545259606
+South Asia (IDA & IBRD),1.545259606
+South Sudan,0.159441965
+Spain,5.249157873
+Sri Lanka,1.101846767
+St. Kitts and Nevis,4.617046005
+St. Lucia,2.301754211
+St. Martin (French part),
+St. Vincent and the Grenadines,2.010067697
+Sub-Saharan Africa,0.834312943
+Sub-Saharan Africa (excluding high income),0.830603048
+Sub-Saharan Africa (IDA & IBRD countries),0.834312943
+Sudan,2.47
+Suriname,3.076995794
+Sweden,4.35875184
+Switzerland,4.117489823
+Syrian Arab Republic,1.651774073
+Tajikistan,0.612889431
+Tanzania,0.225684764
+Thailand,4.114223358
+Timor-Leste,0.406011541
+Togo,0.399417466
+Tonga,1.269071421
+Trinidad and Tobago,31.84485149
+Tunisia,2.64840154
+Turkey,4.669466686
+Turkmenistan,12.47358651
+Turks and Caicos Islands,5.91791351
+Tuvalu,0.980044543
+Uganda,0.143267095
+Ukraine,4.493971404
+United Arab Emirates,22.04082852
+United Kingdom,5.776795985
+United States of America,15.50220398
+Upper middle income,5.979799957
+Uruguay,1.975862788
+Uzbekistan,2.882785961
+Vanuatu,0.527000323
+Venezuela,5.500712738
+Vietnam,2.057565917
+Virgin Islands (U.S.),2.28
+West Bank and Gaza,0.740606555
+Yemen,0.390479572
+Zambia,0.314182895
+Zimbabwe,0.782776886
