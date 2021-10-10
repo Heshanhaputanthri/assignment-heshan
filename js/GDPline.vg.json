@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/Heshanhaputanthri/assignment-heshan/main/data/linedata.csv"},
+    "title": "Top Countries - GDP Growth Over time",
+  "width": 700,
+  "height": 500,
+  "encoding": {"x": {"field": "Year", "type": "quantitative",
+    "scale":{"domain" : [1960,2020]}}},
+  "layer": [
+    {
+      "encoding": {
+        "color": {"field": "Entity", "type": "nominal"},
+        "y": {"field": "GDP", "type": "quantitative"}
+      },
+      "layer": [
+        {    "mark": {
+    "type": "line",
+    "clip": true
+  }},
+        {"transform": [{"filter": {"selection": "hover"}}], "mark": "point"}
+      ]
+    },
+    {
+      "transform": [{"pivot": "Entity", "value": "GDP", "groupby": ["Year"]}],
+      "mark": {"type":"rule","clip":true},
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "selection": "hover"},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Year", "type": "quantitative"},
+          {"field": "Australia", "type": "quantitative"},
+          {"field": "Norway", "type": "quantitative"},
+          {"field": "Singapore", "type": "quantitative"},
+          {"field": "United States", "type": "quantitative"}
+        ]
+      },
+      "selection": {
+        "hover": {
+          "type": "single",
+          "fields": ["Year"],
+          "nearest": true,
+          "on": "mouseover",
+          "empty": "none",
+          "clear": "mouseout"
+        }
+      }
+    }
+  ]
+}
